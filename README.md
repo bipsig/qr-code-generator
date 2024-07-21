@@ -5,6 +5,7 @@ This project prompts the user for a URL, generates a QR code image for that URL,
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
@@ -13,6 +14,9 @@ This project prompts the user for a URL, generates a QR code image for that URL,
 ## Prerequisites
 
 Make sure you have Node.js installed on your system. You can download it from [Node.js](https://nodejs.org/).
+
+## Demo
+You can check out the live demo of the application [here](https://qr-code-generator-nlcf.onrender.com)
 
 ## Installation
 
